@@ -1,5 +1,5 @@
 # Hello, I'm Eemil 👋
-💻 Third-year student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi), majoring in Web Development and Digital Media as part of my Information and Communication Technology studies<br>🏆 Soon to be Bachelor of Engineering<br>📚 Currently learning C#<br>🛠️ Currently working on an IoT project called DeviceHub<br>
+💻 Third-year student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi), majoring in Web Development and Digital Media as part of ICT studies<br>🏆 Soon to be Bachelor of Engineering<br>📚 Currently learning C#<br>🛠️ Currently working on an IoT project called DeviceHub<br>
 
 
 ## 🌐 Let's Connect:
