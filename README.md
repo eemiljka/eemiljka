@@ -1,5 +1,5 @@
 # Hello, I'm Eemil 👋
-💻 Third-year student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi), majoring in Web Development and Digital Media as part of ICT studies<br>📚 Currently learning IT principles through Google IT Support Professional Certificate<br>🛠️ Working on a personal project called JetBud: [frontend](https://github.com/eemiljka/jetbud), [backend](https://github.com/eemiljka/jetbud-server)<br>🏆 Soon to be Bachelor of Engineering<br>
+💻 Third-year student at [Metropolia University of Applied Sciences](https://www.metropolia.fi/fi), majoring in Web Development and Digital Media as part of ICT studies<br>📚 Currently learning various IT support skills through Google IT Support Professional Certificate<br>🛠️ Working on a personal project called JetBud: [frontend](https://github.com/eemiljka/jetbud), [backend](https://github.com/eemiljka/jetbud-server)<br>🏆 Soon to be Bachelor of Engineering<br>
 
 
 ## 🌐 Let's Connect:
